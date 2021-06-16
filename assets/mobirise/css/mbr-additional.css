@@ -2909,13 +2909,38 @@ a {
   height: 2px;
   margin: 0 auto;
 }
+.cid-sAmoNbI7LZ .mbr-text {
+  text-align: left;
+}
 .cid-sAmoOMKAAL {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-sAmoPNvHam {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-sAmrRl663G {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
+}
+.cid-sAmrRl663G .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-sAmrRl663G .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-sAmrRl663G .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #6592e6;
+}
+.cid-sAmrRl663G .panel-body,
+.cid-sAmrRl663G .card-header {
+  padding: 1rem 0;
+}
+.cid-sAmrRl663G .panel-title-edit {
+  color: #000000;
 }
